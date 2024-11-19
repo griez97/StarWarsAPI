@@ -1,7 +1,6 @@
 import { IFilm } from "./contracts/IFilm";
 import { IPeople } from "./contracts/IPeople";
 import { IPlanet } from "./contracts/IPlanet";
-import { IVehicle } from "./contracts/Ivehicle";
 import "./style.css";
 
 // ! HAUPTGANG
